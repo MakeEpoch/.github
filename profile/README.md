@@ -9,3 +9,4 @@ Make anything. Open everything.
 ## 项目生态
 
 - [DSH 插件生态](https://github.com/MakeEpoch/dsh-plugins)：DSH 插件目录、项目说明与入口。
+- [Maker Lab 软硬件创作实验室](https://github.com/MakeEpoch/maker-lab)：开发板、设备、外设及配套软件项目。
